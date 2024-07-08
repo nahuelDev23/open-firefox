@@ -24,3 +24,5 @@ sleep 5
 xdotool search --onlyvisible --class firefox windowactivate --sync key F11
 
 ```
+
+Tipear en linux *start* y elegir *start application*
